@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+	A hidden folder, .git, is ceated. You need to initialie it to store 
+	metadata of the repository
+	
