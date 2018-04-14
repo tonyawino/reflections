@@ -16,3 +16,7 @@ What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 	Branches are useful when you want to experiment on a new feature while you
 	continue with the main project
+	
+How do the diagrams help you visualize the branch structure?
+	You can see the tree through which the commits are updated
+	and avoid creating unreachable commits
